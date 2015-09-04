@@ -1,0 +1,8 @@
+com\tss\poolsawatservice\DatabaseConfig.class
+com\tss\poolsawatservice\Application.class
+com\tss\poolsawatservice\model\Greeting.class
+com\tss\poolsawatservice\model\User.class
+com\tss\poolsawatservice\dao\UserDao.class
+com\tss\poolsawatservice\SimpleCORSFilter.class
+com\tss\poolsawatservice\controller\UserController.class
+com\tss\poolsawatservice\controller\GreetingController.class
